@@ -18,9 +18,6 @@ Install RStudio version 1.4 or newer.
 ## License
 To consult license see [LICENSE](LICENSE) 
 
-## Report
-To see the project report see [REPORT](REPORT.md) 
-
 ## Contact
 Autor: Daianna González Padilla 
 E-mail: daianna@lcg.unam.mx
