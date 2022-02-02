@@ -1,0 +1,34 @@
+---
+title: "Daianna González Padilla"
+image: "me cv.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/daianna-gonz%C3%A1lez-86913522b/"
+  - label: Twitter
+    url: "https://twitter.com/Daianna27635327/"
+  - label: GitHub
+    url: "https://github.com/daianna21"
+  - label: Email
+    url: "daianna@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## About me
+
+Daianna González is a Genomic Sciences undergraduate student at National Autonomous University of Mexico. She is broadly interested in pharmaceutics and pharmacogenomics.
+Currently applying bioinformatics to understand the underlying gene regulation mechanisms of brain disease through omics data analysis in order to ultimately design effective therapies and drugs. 
+
+## Education
+
+**National Autonomous University of Mexico** | Morelos, MX
+
+Genomic Sciences undergraduate student | September 2020 - Present
+
+
+
+## Experience
+
+**Genomics and Bioinformatics Hub** | BWH, Harvard Medical School | Co-op intern | February 2022 - Present
+
+**Freyre Lab** | Genomic Sciences Center CCG, UNAM | intern  | February 2021- June 2021
