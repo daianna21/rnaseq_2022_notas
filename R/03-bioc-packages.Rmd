@@ -1,0 +1,58 @@
+---
+title: "Bioconductor 3.14"
+author: "Cristina Sotomayor, Daianna González, Rodrigo Hernández"
+date: "2/1/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Evaluamos algunos de los nuevos paquetes de Bioconductor 3.14 para explorar los últimos paquetes que se han desarrollado y conocer sus utilidades. Algunos de los que más nos interesaron fueron los siguientes:
+
+## netOmics: Multi-Omics (time-course) network-based integration and interpretation
+
+### Enlace 
+http://bioconductor.org/packages/release/bioc/html/netOmics.html
+
+### Resumen 
+Utiliza diferentes métodos para construir redes multi-ómicas multicapa. 
+
+### Utilidad 
+Identificar mecanismos moleculares y las funciones biológicas afectadas en cierta enfermedad. 
+
+### Comentarios 
+La documentación está muy completa. Dado que el paquete es reciente, aún no hay preguntas y por lo tanto, no hay respuestas para saber qué tanto apoyo hay de los autores. Pasa las pruebas en todos los sistemas operativos. 
+
+## txcutr: Transcriptome CUTteR
+
+### Enlace 
+http://bioconductor.org/packages/release/bioc/html/txcutr.html
+
+### Resumen 
+Implementa métodos convenientes para generar las anotaciones truncadas y las correspondientes secuencias de algunos datos de secuenciación de mRNAs obtenidos en los extremos del transcrito. 
+
+### Utilidad 
+Convenientes para análisis de cuantificación del uso de isoformas que requieren versiones no truncadas del transcriptoma.
+
+### Comentarios 
+El paquete tiene una documentación completa, incluyendo instrucciones de instalación y documentación con vignettes, además de un artículo que respalda su fundamento. Sin embargo, hay falta de respuestas en las preguntas. 
+
+## easier: Estimate Systems Immune Response from RNA-seq data
+
+### Enlace 
+http://bioconductor.org/packages/release/bioc/html/easier.html
+
+### Resumen 
+Identificar a partir de datos de RNA-seq predictores de la respuesta inmune a cáncer. 
+
+### Utilidad 
+Hacer predicciones sobre si ciertos pacientes responderán o no a algún tratamiento. 
+
+### Comentarios 
+La documentación está muy completa, e incluyen el fundamento biológico de los predictores que busca su modelo, lo cual nos pareció interesante. Aún no hay preguntas, pero funciona para todas las plataformas. Este paquete requiere de muchas dependencias, 202. 
+
+
+
+
